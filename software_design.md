@@ -34,12 +34,12 @@
 
 To ensure adaptability over sectors and enhance market share, I would suggest employing an object oriented approach:
 
-1. Flexibility
+1. **Flexibility**
 - OOD allows the encapsulation of data and methods related to payments within objects, meaning you can create various classes, each for different sectors, and the payment methods offered within these sectors. Each of these defined classes can encapsulate logic specific to each sector.
 - As well as this, polymorphism allows a common interface to be defined for different sectors, which can be useful when implementing sector classes into the program. You could define a class that contains the essential methods and data needed for an online purchase to be made, and each sector class that you implement can be represented by this class, while defining their unique data and functionality.
-2. Design Patterns
+2. **Design Patterns**
 - Since the strategy pattern falls under the category of OOD, this design method will be useful in this scenario as flexibility is required - different strategies can be implemented, depending on whether you're ordering a takeaway or buying a coat, at runtime (the time of the purchase) making the process consistent across sectors.
-3. Modularity
+3. **Modularity**
 - OOD promotes the development of separate modular components in a system. For example, if the takeaway sector requires some additional functionality, like applying a service charge, a new module can be created to implement this without compromising the rest of the system.
 
 # Resources:

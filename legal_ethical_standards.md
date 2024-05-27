@@ -70,12 +70,12 @@ In-game purchases must be advertised in a truthful and nondeceptive manner to bu
 
 ### What could the company do to address these issues?
 
-Legal:
+**Legal**:
 - Maintain honesty in any changes to the details of in-game purchases, how they affect gameplay and provide clear and accurate pricing.
 - Obtaining explicit consent, open communication with users and maintaining integrity while handling personal information to ensure GDPR compliance for data collection.
 - Handle payments in a way that complies with relevant financial regulations with secure payments, customer authentication and monitoring transactions for fraud.
 
-Ethical:
+**Ethical**:
 - Make amendments to the game design to minimise its addictive nature through limiting play time, balancing reward systems and clear communication of the costs of in-game purchases.
 - With parental and age verification, educational resources for parents and clearly explaining the requirement for parental consent, mandatory parental consent for data collection of minors can be implemented.
 - Routinely evaluate the effect of game design on user welfare with surveys, analysing gamplay to track player behaviour and applying behavioural psychology into the game mechanics in a healthy manner.
@@ -111,15 +111,15 @@ The stark differences between the free and paid versions of the service, such as
 - **Luring Trial Periods**:\
 Offering trial periods for the paid service could also be seen as coercing users into paying for the service.
 
-### What could the company do to address these issues?
+### What could the company do to address these issues?
 
-Legal:
+**Legal**:
 - Implement a means of obtaining consent where users can opt in and out of sharing their location data for advertisements, ensuring they are fully aware of how their data is processed.
 - Collect only data that is necessary for the communicated purpose.
 - Communicate clearly the purpose of data collection.
 - Ensure any paid services comply with relevant financial regulations. Use secure payment gateways and encrypt payment data.
 
-Ethical:
+**Ethical**:
 - Avoid aggressive advertisement tactics. Keep ads relevant and non-invasive. Give users the option to opt in and out of targeted ads.
 - Ensure that the free version of the service is enough for users to have a meaningful experience.
 - Offer fair pricing for the premium version to ensure it is affordable to people of all socioeconomic 
